@@ -1,0 +1,16 @@
+.country{
+    border: 2px solid chartreuse;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 20px;
+}
+.img{
+    width: 300px;
+    height: 200px;
+}
+.visited{
+    background-color: blueviolet;
+}
+.non-visited{
+    background-color: burlywood;
+}

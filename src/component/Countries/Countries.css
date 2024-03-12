@@ -1,0 +1,13 @@
+.country-container{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    gap: 10px;
+}
+.visitedFlag-container{
+    display: grid;
+    grid-template-columns: repeat(8, 1fr);
+    gap: 10px;
+}
+.visitedFlag-container img{
+    width: 120px;
+}
